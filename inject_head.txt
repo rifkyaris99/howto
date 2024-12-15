@@ -16,3 +16,4 @@
 <meta name="google-adsense-account" content="ca-pub-3782008308214258">
 <meta name="google-adsense-account" content="ca-pub-8673240688136342">
 <meta name="google-adsense-account" content="ca-pub-9775654463417274">
+<meta name="google-adsense-account" content="ca-pub-1230763282084810">
